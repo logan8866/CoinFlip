@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f3482e217b2859c91aa3b207c079505b CMakeFiles/CoinFlip_autogen

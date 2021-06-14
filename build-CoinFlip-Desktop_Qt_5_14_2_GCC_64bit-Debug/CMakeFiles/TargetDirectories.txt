@@ -1,0 +1,4 @@
+/home/wangyiqing8866/Desktop/QT_game_CoinFlip/build-CoinFlip-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/wangyiqing8866/Desktop/QT_game_CoinFlip/build-CoinFlip-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/CoinFlip.dir
+/home/wangyiqing8866/Desktop/QT_game_CoinFlip/build-CoinFlip-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/wangyiqing8866/Desktop/QT_game_CoinFlip/build-CoinFlip-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/CoinFlip_autogen.dir
